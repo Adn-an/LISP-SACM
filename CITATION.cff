@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "LISP-SACM"
+authors:
+  - family-names: "Mustafic"
+    given-names: "Adnan"
+  - family-names: "Dornaika"
+    given-names: "Fadi"
+  - family-names: "Hammoudi"
+    given-names: "Karim"
+preferred-citation:
+  type: conference-paper
+  title: "Lung Infection Severity Prediction with Parallel Transformers and Score-correlated Anatomical CutMix Augmentation"
+  authors:
+    - family-names: "Mustafic"
+      given-names: "Adnan"
+    - family-names: "Dornaika"
+      given-names: "Fadi"
+    - family-names: "Hammoudi"
+      given-names: "Karim"
+  year: 2025
+  collection-title: "Proceedings of 2025 International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2025) - Lecture Notes in Electrical Engineering"
+  publisher:
+    name: "Springer"
+  issn: "1876-1100"
