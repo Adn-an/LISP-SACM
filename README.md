@@ -54,9 +54,10 @@ If you use this code or the results in your research, please cite the original a
 
 ```
 @inproceedings{MustaficSACM,
-    author = "Mustafic, Adnan and Dornaika, Fadi and Hammoudi, Karim",
-    title = "Lung Infection Severity Prediction with Parallel Transformers and Score-correlated Anatomical CutMix Augmentation",
-    booktitle = "Proceedings of 2025 International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2025)",
-    year = {2025}
+  author = {Mustafic, Adnan and Dornaika, Fadi and Hammoudi, Karim},
+  booktitle = {Proceedings of 2025 International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2025) - Lecture Notes in Electrical Engineering},
+  publisher = {Springer},
+  title = {{Lung Infection Severity Prediction with Parallel Transformers and Score-correlated Anatomical CutMix Augmentation}},
+  year = {2025}
 }
 ```
